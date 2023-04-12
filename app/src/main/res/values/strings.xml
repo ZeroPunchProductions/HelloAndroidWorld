@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HelloAndroidWorld</string>
+    <string name="action_settings">Settings</string>
+    <!--changed text for first and second fragment labels-->
+    <string name="first_fragment_label">Page 1</string>
+    <string name="second_fragment_label">Page 2</string>
+    <!--changed string name from next to next_page and button text from next to next page-->
+    <string name="next_page">Next Page</string>
+    <string name="previous_page">Previous Page</string>
+
+    <string name="hello_world">hello android world \n CMSY-169-N090</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
