@@ -11,6 +11,7 @@ import android.view.Menu
 import android.view.MenuItem
 import com.example.helloandroidworld.databinding.ActivityMainBinding
 
+//main activity class
 class MainActivity : AppCompatActivity() {
 
     private lateinit var appBarConfiguration: AppBarConfiguration
